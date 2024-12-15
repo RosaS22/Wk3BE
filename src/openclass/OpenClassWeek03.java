@@ -72,14 +72,14 @@ if (moneyInWallet >= costOfMilk * 2) {
 //		System.out.println("You are locked out!");
 //}
 	//Post test loop construct 
-	int n = 10;
-	
-	do {
-		Scanner prompt = new Scanner(System.in);
-		System.out.println("Enter a number below: ");
-		n = prompt.nextInt();
-		
-	} while (n < 10);
+//	int n = 10;
+//	
+//	do {
+//		Scanner prompt = new Scanner(System.in);
+//		System.out.println("Enter a number below: ");
+//		n = prompt.nextInt();
+//		
+//	} while (n < 10);
 	
 //Pre test loop construct
 //	while (n < 10) {
